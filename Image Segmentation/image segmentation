@@ -1,1 +1,5 @@
 The objects in a image are segmented using Ut = F*Unn and its corresponding numerical scheme.
+
+To run the program, download all files from: https://drive.google.com/drive/folders/1sK1Jmgeh42WB-3y29U2jTpSoKXK3ICSI?usp=sharing
+and include them in the same directory as imageSeg.m
+Prerun images can be found in Image1.fig and Image2.fig
