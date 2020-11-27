@@ -1,0 +1,3 @@
+The de_blur.m takes the cameraman image and adds blur to it and then deblurs it again. On inputting the time the image starts to deblur; more the time more the deblur. 
+However a big time input value can also distort the image, hence you can input an optimal value of 1 second.
+The original, blurred and deblurred image would be shown in a figure.
